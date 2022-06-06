@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2022-06-06T19:19:23.239Z",
-    "end": "2022-06-06T19:19:23.780Z",
-    "duration": 541
+    "start": "2022-06-06T19:24:21.014Z",
+    "end": "2022-06-06T19:24:21.550Z",
+    "duration": 536
   },
   "tests": [
     {
@@ -34,28 +34,28 @@
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"No go.\" if the destination city is not NYC",
       "fullTitle": "index.js ternaryCheckCity() should return \"No go.\" if the destination city is not NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 0,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,28 +94,28 @@
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"No go.\" if the destination city is not NYC",
       "fullTitle": "index.js ternaryCheckCity() should return \"No go.\" if the destination city is not NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 0,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
